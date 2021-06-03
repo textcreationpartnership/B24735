@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords-Justices of Ireland. A proclamation. Charles Porter, Tho: Coningesby. Their Majesties having signified Their pleasure, that the pay of Their forces in this kingdom shall be cleared to a certain day, ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24735</idno><idno type="EEBO-CITATION">99886477</idno>
+  <idno type="VID">186706</idno>
+  <idno type="EEBO-PROQUEST">2240887024</idno>
+  
+            <idno type="STC">Wing I453</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[131]</idno>
+            <idno type="STC">ESTC R226065</idno>
+            <idno type="STC">ESTC R226115</idno>
+            <idno type="PROQUEST">ocm99886477</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886477e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186706)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[131])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords-Justices of Ireland. A proclamation. Charles Porter, Tho: Coningesby. Their Majesties having signified Their pleasure, that the pay of Their forces in this kingdom shall be cleared to a certain day, ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>3 sheets ([3] leaves).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook, assignee of Benjamin Tooke, printer to the King and Queens Most Excellent Majesties, on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at Their Majesties castle of Dublin, the 27th day of January, 1690.".</note>
+                  <note>Date given according to Lady Day dating.</note>
+                  <note>Respecting arrears of pay to the army.--Steele.</note>
+                  <note>Steele notation: Arms 201. Plea- powered 2) Pro- 3) respective Vou-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Pay, allownaces, etc. --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186706:1"/>
+            <head>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                     </figure> RR</head>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">JE MEINTIENDRAY</q>
+               </figure>
+            </head>
+            <head>BY THE Lords-Justices OF IRELAND. A PROCLAMATION.</head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>CHARLES PORTER,</item>
+                     <item>THO: CONINGESBY.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heir Majesties having signified Their Plea<g ref="char:EOLhyphen"/>sure, That the Pay of Their Forces in this Kingdom shall be cleared to a certain Day, and in Order thereunto have by Their Letters Patents under the Great Seal of this Kingdom, Authorized and Ap<g ref="char:EOLhyphen"/>pointed <hi>William Robinson, John Stone, Edward Corker, John South.</hi> and <hi>William Molyneux Esquires,</hi> or any Three of them to be Com<g ref="char:EOLhyphen"/>missioners to State the Accounts there<g ref="char:EOLhyphen"/>of, which said Commissioners are im<g ref="char:EOLhyphen"/>powered to State and Ascertain all Debts due to and from the said Army in this Kingdom, the Trains of Artillery, Hospitals, and all Accompts of Money whatsoever paid unto or Disbursed by any Person or Persons relating to the said Army for the use thereof; And also to Examine, State and Adjust
+<pb facs="tcp:186706:2"/> all Accompts of Receipts or Expence of Arms, Ammunition, Pro<g ref="char:EOLhyphen"/>visions and all other Necessaries and Materials provided for or used by the said Army: And Forasmuch as it is Their Majesties Gra<g ref="char:EOLhyphen"/>cious Intention, that all Persons that have given, or that now do give Subsistence of Provisions or other Relief or Credit unto the said Army in their Respective Quarters in this Kingdom, shall receive Satisfaction for the same according to such Rates as alrea<g ref="char:EOLhyphen"/>dy are or shall be made publick; And also that the Arrears due to all Officers and Soldiers who Died, were Killed, or removed from Their Majesties Service in this Kingdom, shall be satisfied and paid to their Widows or other their Relations. We have there<g ref="char:EOLhyphen"/>fore thought fit, in Order to the speedy settling of the said Accompts, to make known and Publish by this Our Proclamation, That all Persons that have any Debts due unto them from the several Re<g ref="char:EOLhyphen"/>giments, Troops, Companies, and others belonging to the said Ar<g ref="char:EOLhyphen"/>my since their Arrival in this Kingdom, do get their several Debts Certified by the Collonel or other Officer in Chief Commanding the Regiment, <hi>&amp;c.</hi> to which the Person Indebted did belong, and the same when Certified to be Entred with the said Commissioners Sitting near the Council-Chamber in <hi>Dublin,</hi> at or before the First Day of <hi>March</hi> next; And that no Delay or Refusal be made to the Certifying such Debts, We hereby will and require all and every the Collonels and other Officers in Chief Commanding each Regi<g ref="char:EOLhyphen"/>ment, Independent, Troop and Company, Commanders in Chief of the Trains of Artillery, Hospitals, Commissaries, General of the Pro<g ref="char:EOLhyphen"/>visions and Bread, <hi>&amp;c.</hi> That they do upon Tender of all such Bills that are Signed or Acknowledged by the Officer or Soldier to be due unto the Person tendering the same, forthwith to Certify or Allow the said Debt under their Hands; And where the said Certificate cannot be obtained by reason of the Removal of any part of the Army, or otherwise by whom the said Debts were Contracted, that then such due and sufficient Proof as can be made before the next Magistrate, shall be returned up to the said Commissioners of Ac<g ref="char:EOLhyphen"/>counts, which Demands made shall be Communicated to the Agents of the Respective Regiments residing in <hi>Dublin,</hi> who are to shew Cause within Twenty Days after notice given, why the same shall not be Charged to the Account of the said Regiment, <hi>&amp;c.</hi>
+            </p>
+            <p>And that Their Majesties Gracious Intentions may be effectual to all Widows and Relations of those Officers and Soldiers that died in, were killed, or removed from Their Majesties Service, by securing to them the Arrears due to their Husbands or Relations, We do think it highly necessary, and do accordingly require and Command all Col<g ref="char:EOLhyphen"/>lonels and other Officers in Chief Commanding every Regiment, Troop, Company, <hi>&amp;c.</hi> in the Army, to return or cause to be re<g ref="char:EOLhyphen"/>turned unto the said Commissioners at or before the First day of <hi>March</hi> next, a Iust, True and Faithfull Account of all such Officers and
+<pb facs="tcp:186706:3"/> Soldiers, that died, were killed, or removed from their respective Regiments, <hi>&amp;c.</hi> the time when, and the Money paid unto them from the time of their last Clearings, together with an Account of whatsoever hath been any way advanced upon the Account of their Pay. And whereas many Widows or other Relations, being Executors or Administrators, that have a Legal Right to the Ar<g ref="char:EOLhyphen"/>rears of such Officers or Soldiers that died or were killed in Their Majesties Service, live remote from this City, We do therefore direct, that all such persons address themselves unto the Chief Magistrate of the City or Corporate Town, next adjacent to their respective Habitati<g ref="char:EOLhyphen"/>ons, and by Oath or other sufficient Testimony, give Proof of their Right to the said Arrears, which Proof so made shall be transmitted under the Seal of such City or Town Corporate to the said Commissioners of Ac<g ref="char:EOLhyphen"/>counts, at or before the First Day of <hi>March</hi> next.</p>
+            <p>And We do further will and require all Persons whatsoever that have received Money, Stores, <hi>&amp;c.</hi> for which they are accoun<g ref="char:EOLhyphen"/>table to Their Majesties, that they and every of them do immedi<g ref="char:EOLhyphen"/>ately make Return of such Accounts, together with sufficient Vou<g ref="char:EOLhyphen"/>chers to the said Commissioners.</p>
+            <closer>
+               <dateline>Given at Their Majesties Castle of <hi>Dublin,</hi>
+                  <date>the 27th day of <hi>January,</hi> 1690.</date>
+               </dateline>
+               <lb/> God Save the KING and QUEEN,<lb/>
+               <signed>JO<seg rend="sup">N</seg>. DAVIS.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook,</hi> Assignee of <hi>Benjamin Tooke,</hi> Printer to the King and Queens Most Excellent Majesties, on <hi>Ormonde-Key.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
